@@ -22,7 +22,7 @@ During lockdown in 2020, I became obsessed with a popular Youtube channel [Crack
 
 A video of Simon from CtC solving my favourite puzzle I constructed can be found [here.](https://www.youtube.com/watch?v=FAhVKjr5GLg)
 
-<div float="left">
-    <img src="./imgs/ctc-videos.png" style="margin: auto; background-color: #0f0f0f;" alt="Cracking the Cryptic Videos" height="450"/>
-    <img src="./imgs/pyramid-sudoku.jpg" style="margin: auto; background-color: #0f0f0f;" alt="Willy Wonka Pyramid Sudoku" height="450"/>
+<div style="text-align: center;">
+    <img src="./imgs/ctc-videos.png" style="margin: auto; background-color: #0f0f0f; height: 350px" alt="Cracking the Cryptic Videos"/>
+    <img src="./imgs/pyramid-sudoku.jpg" style="margin: auto; background-color: #0f0f0f; height: 350px;" alt="Willy Wonka Pyramid Sudoku"/>
 </div>
