@@ -20,10 +20,16 @@ The final year project of my degree was to extend the existing web application f
 
 During lockdown in 2020, I became obsessed with a popular Youtube channel [Cracking the Cryptic](https://www.youtube.com/c/CrackingTheCryptic) (CtC) which is dedicated to solving beautiful sudokus, often with unusual extra rules. I was inspired to attempt to create my own sudokus under the psuedonym "Willy Wonka", and eventually became renowned enough to be featured on their channel, receiving tens of thousands of views. They later released a book containing their greatest hits which included one of my featured puzzles and a puzzle which I made specifically for the book.
 
+<<<<<<< HEAD
 <div float="left">
     <img src="./imgs/ctc-videos.png" style="margin: auto; background-color: #0f0f0f;" alt="Cracking the Cryptic Videos" height="450"/>
     <img src="./imgs/pyramid-sudoku.jpg" style="margin: auto; background-color: #0f0f0f;" alt="Willy Wonka Pyramid Sudoku" height="450"/>
 </div>
+=======
+<img src="./imgs/ctc-videos.png" style="margin: auto; background-color: #0f0f0f;" alt="Cracking the Cryptic Videos" height="350"/>
+
+<img src="./imgs/pyramid-sudoku.jpg" style="margin: auto; background-color: #0f0f0f;" alt="Willy Wonka Pyramid Sudoku" height="350"/>
+>>>>>>> b2a7495871ec4f311d3276d9646ed955faa66385
 
 A video of Simon from CtC solving my favourite puzzle I constructed can be found [here.](https://www.youtube.com/watch?v=FAhVKjr5GLg&t=113s)
 
