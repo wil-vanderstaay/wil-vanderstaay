@@ -1,8 +1,8 @@
 # About Me
 
-I am Wil Vanderstaay, a Monash University student about to complete my fourth and final year of a Bachelor of Software Engineering degree. I am currently looking for work in this field to put my skills to practice and begin my career in software development.
+I am Wil Vanderstaay, a Monash University student about to complete my fourth and final year of a Bachelor of Software Engineering degree. I am currently looking for work in this field to put my skills to practice and begin my career in software development. This repository provides details of my achievements and university and personal projects with source code provided when it is mine to share. I can be contacted at wilvanderstaay@gmail.com. 
 
-Any spare time I have, I volunteer at a local charity [Free 3D Hands](https://free3dhands.org/), to help them print and assemble hands for people in need all around the world. I currently work casually as a supervisor at a large fish and chip shop, where I am in charge of the daily operations to ensure the business runs effectively and efficiently.
+Any spare time I have, I volunteer at a local charity [Free 3D Hands](https://free3dhands.org/), to help them print and assemble hands for people in need all around the world. I also work casually as a supervisor at a large fish and chip shop, where I am in charge of the daily operations to ensure the business runs effectively and efficiently.
 
 # My Projects
 
