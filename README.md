@@ -2,13 +2,13 @@
 
 I am Wil Vanderstaay, a Monash University graduate for a Bachelor of Software Engineering degree with a computer science minor. I am currently looking for work in this field to put my skills to practice and begin my career in software development. This repository provides details of my achievements and university and personal projects with source code provided when it is mine to share. I can be contacted at wilvanderstaay@gmail.com. 
 
-Any spare time I have, I volunteer at a local charity [Free 3D Hands](https://free3dhands.org/), to help them print and assemble hands for people in need all around the world. I also work casually as a supervisor at a large fish and chip shop, where I am in charge of the daily operations and coordination of staff to ensure the business runs effectively and efficiently.
+Any spare time I have, I volunteer at a local charity [Free 3D Hands](https://free3dhands.org/), to help them print and assemble hands for people in need all around the world. I also work as a supervisor at a large fisherman's co-op [SRFCO](https://srfco.com.au/), where I am in charge of the daily operations and coordination of staff to ensure the business runs effectively and efficiently.
 
 # My Projects
 
 ### [Chess Engine and GUI](https://github.com/wil-vanderstaay/chess_engine_gui)
 
-I have created a chess AI using Javascript which can challenge most skilled players. I have recently begun creating a mechanical chess board which uses a magnet to move the pieces of the opponent, with the dream of connecting it online and to my AI to allow games to be played on a physical board without the opponent present.
+I have created a chess AI using Javascript that utilises advanced search strategies and can challenge most skilled players. I have recently begun creating a mechanical chess board which uses a magnet to move the pieces of the opponent, with the dream of connecting it online and to my AI to allow games to be played on a physical board without the opponent present.
 
 ### AskPCOS Goal Setting Extension
 
