@@ -1,8 +1,6 @@
 # About Me
 
-I am Wil Vanderstaay, a Monash University graduate for a Bachelor of Software Engineering degree with a computer science minor. I am currently looking for work in this field to put my skills to practice and begin my career in software development. This repository provides details of my achievements and university and personal projects with source code provided when it is mine to share. I can be contacted at wilvanderstaay@gmail.com. 
-
-Any spare time I have, I volunteer at a local charity [Free 3D Hands](https://free3dhands.org/), to help them print and assemble hands for people in need all around the world. I also work as a supervisor at a large fisherman's co-op [SRFCO](https://srfco.com.au/), where I am in charge of the daily operations and coordination of staff to ensure the business runs effectively and efficiently.
+I am Wil Vanderstaay, a Monash University graduate for a Bachelor of Software Engineering degree with a computer science minor. This repository provides details of my achievements and university and personal projects with source code provided when it is mine to share. I can be contacted at wilvanderstaay@gmail.com. 
 
 # My Projects
 
