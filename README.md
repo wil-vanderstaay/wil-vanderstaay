@@ -16,9 +16,9 @@ The final year project of my degree was to extend the existing web application f
 
 ### Sudoku Constructor
 
-During lockdown in 2020, I became obsessed with a popular Youtube channel [Cracking the Cryptic](https://www.youtube.com/c/CrackingTheCryptic) (CtC) which is dedicated to solving sudokus, often with unusual extra rules. I was inspired to attempt to create my own sudokus under the psuedonym "Willy Wonka", and eventually became renowned enough to be featured on their channel, receiving tens of thousands of views. They later released a book containing their greatest hits which included one of my featured puzzles and a puzzle which I made specifically for the book.
+During lockdown in 2020, I became obsessed with a popular Youtube channel [Cracking the Cryptic](https://www.youtube.com/c/CrackingTheCryptic) which is dedicated to solving sudokus, often with unusual extra rules. I was inspired to attempt to create my own sudokus under the psuedonym "Willy Wonka", and eventually became renowned enough to be featured on their channel, receiving tens of thousands of views. They later released a book containing their greatest hits which included one of my featured puzzles and a puzzle which I made specifically for the book.
 
-A video of Simon from CtC solving my favourite puzzle I constructed can be found [here.](https://www.youtube.com/watch?v=FAhVKjr5GLg)
+A video of Simon from Cracking the Cryptic solving my favourite puzzle I constructed can be found [here.](https://www.youtube.com/watch?v=FAhVKjr5GLg)
 
 <div style="text-align: center;">
     <img src="./imgs/ctc-videos.png" style="margin: auto; background-color: #0f0f0f; height: 60vh" alt="Cracking the Cryptic Videos"/>
